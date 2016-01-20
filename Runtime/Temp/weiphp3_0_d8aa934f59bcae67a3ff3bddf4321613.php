@@ -1,0 +1,3 @@
+<?php
+//000000086400a:22:{s:2:"id";s:1:"1";s:7:"keyword";s:9:"刮刮乐";s:8:"use_tips";s:15:"刮刮更健康";s:5:"title";s:9:"刮刮乐";s:5:"intro";s:0:"";s:8:"end_time";s:10:"1480525200";s:5:"cover";s:1:"0";s:5:"cTime";s:10:"1452878131";s:5:"token";s:15:"gh_dde057dcaf26";s:10:"start_time";s:10:"1451581200";s:8:"end_tips";s:18:"过期就过期呗";s:7:"end_img";N;s:11:"predict_num";s:2:"10";s:7:"max_num";s:1:"0";s:17:"follower_condtion";s:1:"1";s:15:"credit_conditon";s:1:"0";s:10:"credit_bug";s:1:"0";s:15:"addon_condition";N;s:13:"collect_count";s:1:"8";s:10:"view_count";s:1:"0";s:11:"update_time";s:10:"1452878131";s:8:"template";s:7:"default";}
+?>

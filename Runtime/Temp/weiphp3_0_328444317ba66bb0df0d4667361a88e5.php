@@ -1,0 +1,3 @@
+<?php
+//000000000000a:16:{s:2:"id";s:1:"3";s:5:"cover";s:1:"0";s:7:"content";s:58:"<p>我知道一支必涨的股票，你想知道么？</p>";s:5:"title";s:12:"股市资讯";s:5:"price";s:7:"2000.00";s:4:"imgs";s:0:"";s:9:"inventory";s:1:"1";s:7:"shop_id";s:1:"1";s:7:"is_show";s:1:"1";s:10:"sale_count";s:1:"0";s:12:"is_recommend";s:1:"0";s:4:"rank";s:1:"0";s:9:"show_time";s:10:"1453198464";s:9:"old_price";s:4:"2000";s:4:"type";s:1:"0";s:11:"category_id";s:1:"3";}
+?>
